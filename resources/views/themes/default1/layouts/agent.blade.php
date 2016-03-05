@@ -384,6 +384,8 @@ $(function() {
 
                         //     });
                         // </script>
+                        
+        	   <script src="/lb-faveo/plugins/moment-develop/moment.js"></script>
                    <!-- // <script src="../plugins/jQuery/jQuery-2.1.3.min.js"></script> -->
                     <script src="{{asset("lb-faveo/dist/js/tabby.js")}}"></script>
                      <!-- // <script src="{{asset("dist/js/editor.js")}}"></script> -->
