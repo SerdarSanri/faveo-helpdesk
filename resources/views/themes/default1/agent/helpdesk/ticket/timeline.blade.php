@@ -16,14 +16,7 @@ active
 ?>
 
 @section('sidebar')
-<script language="javascript">
-	
-        $.fn['stars'] = function() {
-            return $(this).each(function() {
-                $(this).html($('<span />').width(Math.max(0, (Math.min(5, parseFloat($(this).html())))) * 16));
-            });
-        }
-</script>
+
 <li class="header">{!! Lang::get('lang.Ticket_Information') !!} </li>
 <li>
     <a href="">
