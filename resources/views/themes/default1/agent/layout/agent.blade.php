@@ -43,12 +43,13 @@
         <script src="{{asset("lb-faveo/js/jquery-2.1.4.js")}}" type="text/javascript"></script>
         <!--<script src="{{asset("lb-faveo/js/jquery2.1.1.min.js")}}" type="text/javascript"></script>-->
         <script>
-            
+        (function( $ ) {
             $.fn.stars = function() {
                 return $(this).each(function() {
                     $(this).html($('<span />').width(Math.max(0, (Math.min(5, parseFloat($(this).html())))) * 16));
                 });
             }
+        }( jQuery ));
         </script>
         
         <script src="/lb-faveo/plugins/moment-develop/moment.js"></script>
