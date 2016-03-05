@@ -1991,6 +1991,12 @@ function lockAjaxCall(locktime){
         })
 }
 
+
+        $.fn.stars = function() {
+            return $(this).each(function() {
+                $(this).html($('<span />').width(Math.max(0, (Math.min(5, parseFloat($(this).html())))) * 16));
+            });
+        }
         $(function() {          
            
                 $('h5').html('<span class="stars">'+parseFloat($('input[name=amount]').val())+'</span>');
@@ -2000,12 +2006,6 @@ function lockAjaxCall(locktime){
                 $('span.stars2').stars();
 
         });
-
-        $.fn.stars = function() {
-            return $(this).each(function() {
-                $(this).html($('<span />').width(Math.max(0, (Math.min(5, parseFloat($(this).html())))) * 16));
-            });
-        }
 </script>
 
 @stop
