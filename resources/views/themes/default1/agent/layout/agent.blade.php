@@ -42,7 +42,7 @@
         <![endif]-->
         <script src="{{asset("lb-faveo/js/jquery-2.1.4.js")}}" type="text/javascript"></script>
         <script src="{{asset("lb-faveo/js/jquery2.1.1.min.js")}}" type="text/javascript"></script>
-
+        <script src="/lb-faveo/plugins/moment-develop/moment.js"></script>
         @yield('HeadInclude')
     </head>
     <body class="skin-yellow skin-green fixed">
