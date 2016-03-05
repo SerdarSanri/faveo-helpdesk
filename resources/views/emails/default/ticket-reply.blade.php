@@ -1,1 +1,1 @@
-<span><p>{!!$content!!} &nbsp;&nbsp;<br></p><p>{!!$agent_signature!!}&nbsp;</p><p>Ticket Details</p><p>Ticket ID: {!!$ticket_number!!} &nbsp;&nbsp;&nbsp;&nbsp;</p><div><br></div></span>
+<span><p>{!!$content!!} &nbsp;&nbsp;<br></p><p>{!!$agent_signature!!}&nbsp;</p><p>Ticket Details</p><p>Ticket ID: {!!$ticket_number!!} &nbsp;&nbsp;&nbsp;&nbsp;</p><div>{!!$system_link!!}<br></div></span>

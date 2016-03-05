@@ -8,3 +8,209 @@ Stack trace:
 #5 /home/faveohelpdesk/public_html/demo/local/app/Http/routes.php(277): Ill in /home/faveohelpdesk/public_html/demo/local/app/Http/routes.php on line 260
 [24-Jul-2015 12:08:05 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/faveohelpdesk/public_html/demo/local/app/Http/routes.php on line 260
 [27-Jul-2015 10:50:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/faveohelpdesk/public_html/demo/local/storage/framework/views/dfc79cb1d1ad74c39ab1adc75b4db873 on line 214
+[05-Mar-2016 04:30:03 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for localhost: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 04:31:53 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for localhost: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 04:32:47 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for localhost: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 04:33:37 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for localhost: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 04:33:57 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for localhost: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 04:36:41 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 04:37:44 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:05:03 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:10:03 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:15:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:20:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:25:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:30:03 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:35:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:38:18 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:39:43 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:39:46 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for localhost: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:40:02 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for localhost: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:42:17 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:43:11 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for mail.dcdirect.co.za: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:43:22 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for mail.dcdirect.co.za: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:43:39 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for mail.dcdirect.co.za: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:44:59 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for mail.dcdirect.co.za: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:45:01 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Certificate failure for mail.dcdirect.co.za: self signed certificate: /CN=saturn.dcdirect.co.za/emailAddress=ssl@saturn.dcdirect.co.za (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Certif...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:46:14 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:46:39 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:51:01 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:53:57 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:54:55 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:55:42 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:56:01 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:58:27 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 05:58:54 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:01:01 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:03:26 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:05:39 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:06:01 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: [CLOSED] IMAP connection broken (server response) (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: [CLOSE...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:09:17 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:09:43 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: No such host as lolcahost (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: No suc...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:10:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 06:10:04 UTC] PHP Fatal error:  Uncaught exception 'ErrorException' with message 'Unknown: Can not authenticate to IMAP server: [AUTHENTICATIONFAILED] Authentication failed. (errflg=2)' in Unknown:0
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Unknown: Can no...', 'Unknown', 0, Array)
+#1 {main}
+  thrown in Unknown on line 0
+[05-Mar-2016 08:36:47 Africa/Harare] PHP Fatal error:  Call to undefined function nltobr() in /home/dcdirectco/public_html/helpdesk/storage/framework/views/c7193a3f6309064ab518ee08365401f2 on line 662

@@ -646,6 +646,7 @@ $data = $ConvDate[0];
                                         
                                     </h3>
                                     <div class="timeline-body" style="padding-left:30px;margin-bottom:-20px">
+				    <?php $body =nl2br(trim( strip_tags($body)));?>
                                             {!! $body !!}
                                     </div>
                                     @if($conversation->id == $ij->id)
