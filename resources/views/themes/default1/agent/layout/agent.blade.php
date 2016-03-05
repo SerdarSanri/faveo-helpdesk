@@ -385,7 +385,7 @@ $(function() {
                     <!-- CK Editor -->
                     <!-- // <script src="{{asset("//cdn.ckeditor.com/4.4.3/standard/ckeditor.js")}}"></script> -->
                     <script src="{{asset("ckeditor/ckeditor.js")}}"></script>
-                    <script src="{{asset("lb-faveo/plugins/filebrowser/plugin.js")}}"></script>
+                    <!--<script src="{{asset("lb-faveo/plugins/filebrowser/plugin.js")}}"></script>-->
                     <script src="{{asset("lb-faveo/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js")}}" type="text/javascript"></script>
                     <script>
                         // $(function () {
