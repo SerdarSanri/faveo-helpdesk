@@ -41,7 +41,16 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
         <![endif]-->
         <script src="{{asset("lb-faveo/js/jquery-2.1.4.js")}}" type="text/javascript"></script>
-        <script src="{{asset("lb-faveo/js/jquery2.1.1.min.js")}}" type="text/javascript"></script>
+        <!--<script src="{{asset("lb-faveo/js/jquery2.1.1.min.js")}}" type="text/javascript"></script>-->
+        <script>
+            
+            $.fn.stars = function() {
+                return $(this).each(function() {
+                    $(this).html($('<span />').width(Math.max(0, (Math.min(5, parseFloat($(this).html())))) * 16));
+                });
+            }
+        </script>
+        
         <script src="/lb-faveo/plugins/moment-develop/moment.js"></script>
         @yield('HeadInclude')
     </head>
@@ -299,11 +308,11 @@ $group = App\Model\helpdesk\Agent\Groups::where('id', '=', $agent_group)->where(
             <strong>{!! Lang::get('lang.copyright') !!} &copy; {!! date('Y') !!}  <a href="{!! $company->website !!}">{!! $company->company_name !!}</a>.</strong> {!! Lang::get('lang.all_rights_reserved') !!}. {!! Lang::get('lang.powered_by') !!} <a href="http://www.faveohelpdesk.com/">Faveo</a>
                         </footer>
                     </div><!-- ./wrapper -->
-                    {{-- // <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> --}}
+                    <!-- // <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
 
                      <script src="{{asset("lb-faveo/js/ajax-jquery.min.js")}}"></script>
                     
-                    {{-- // <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.7.14/js/bootstrap-datetimepicker.min.js"></script> --}}
+                    <!-- // <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.7.14/js/bootstrap-datetimepicker.min.js"></script> -->
 
                     <script src="{{asset("lb-faveo/js/bootstrap-datetimepicker4.7.14.min.js")}}" type="text/javascript"></script>
                     <!-- Bootstrap 3.3.2 JS -->
@@ -335,6 +344,7 @@ $group = App\Model\helpdesk\Agent\Groups::where('id', '=', $agent_group)->where(
                      <script src="{{asset("lb-faveo/plugins/select2/select2.full.min.js")}}" ></script>
 
 <script>
+
 $(function() {
     // Enable iCheck plugin for checkboxes
     // iCheck for checkbox and radio inputs
